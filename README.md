@@ -20,7 +20,7 @@
 <a href="https://dev.to/alifathy1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alifathy1999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-ahmed-fathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ahmed-fathi/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@aliahmed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aliahmed99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aliahmedfathi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aliahmedfathi37" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aliahmedfathi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aliahmedfathi37" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aliahmed_1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliahmed_1999" height="30" width="40" /></a>
 </p>
 
