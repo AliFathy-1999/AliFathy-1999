@@ -31,9 +31,24 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifathy-1999&show_icons=true&locale=en&layout=compact" alt="alifathy-1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifathy-1999&show_icons=true&locale=en" alt="alifathy-1999" /></p>
+<details><summary><h3>⚡ Ali Ahmed Fathi's GitHub Stats</h3></summary>
 
+----
+	
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifathy-1999&show_icons=true&locale=en" alt="alifathy-1999" / </p>
+ 
+</details>
+
+
+
+<details><summary><h3>⚡ Most Used Languages</h3></summary>
+
+----
+	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifathy-1999&" alt="alifathy-1999" /></p>
+ 
+</details>
+
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
