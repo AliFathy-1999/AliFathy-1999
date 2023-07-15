@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **WebSocket, React and Redux toolkit**
 
+- Officially certified as an **Amazon Web Services (AWS) Cloud Practitioner**.
+
 - 👨‍💻 All of my projects are available at [https://github.com/AliFathy-1999](https://github.com/AliFathy-1999)
 
 - 💬 Ask me about **MERAN stack**
@@ -32,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifathy-1999&show_icons=true&locale=en" alt="alifathy-1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifathy-1999&" alt="alifathy-1999" /></p>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliFathy-1999&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+</details>
