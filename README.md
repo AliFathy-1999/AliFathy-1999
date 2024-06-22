@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifathy-1999&label=Profile%20views&color=0e75b6&style=flat" alt="alifathy-1999" /> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **NestApp project**
 
-- 🌱 I’m currently learning **WebSocket, React and Redux toolkit**
+- 🌱 I’m currently learning **Redis and Caching**
 
 - Officially certified as an **Amazon Web Services (AWS) Cloud Practitioner**.
 
